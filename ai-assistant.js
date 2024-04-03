@@ -88,7 +88,7 @@ export class AIAssistant extends LitElement {
           enum: ['gpt-4', 'gpt-4-32k', 'gpt-3.5-turbo', 'gpt-3.5-turbo-16k'],
           showAsRadio: false,
           verticalLayout: true,
-          defaultValue: 'gpt-4'
+          defaultValue: 'gpt-3.5-turbo'
         },
         allowSystemPrompt: {
           title: 'Allow Change to AI System Prompt',
@@ -163,7 +163,7 @@ export class AIAssistant extends LitElement {
         const url = 'https://api.openai.com/v1/chat/completions'; 
 
         const requestBody = {
-          model: 'gpt-4',
+          model: this.aiModel,
           messages: [
               {
                   role: 'system',
