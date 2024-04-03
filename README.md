@@ -27,7 +27,7 @@ The control allows entering a prompt, which is interpreted by CHAT-GPT. A respon
 
 ## Gallery
 
-!AI Assistant Image 1(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image004.jpg)
-!AI Assistant Image 2(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image005.jpg)
-!AI Assistant Image 3(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image006.jpg)
-!AI Assistant Image 4(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image007.jpg)
+!(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image004.jpg)
+!(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image005.jpg)
+!(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image006.jpg)
+!(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image007.jpg)
