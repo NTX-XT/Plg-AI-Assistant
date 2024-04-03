@@ -1,11 +1,5 @@
 # AI Assistant JavaScript Plugin for Nintex
 
-## Plugin Information
-
-| JavaScript Element Name | Version | Date       | Evaluation Link |
-| ----------------------- | ------- | ---------- | --------------- |
-| ai-assistant            | 1.0     | 2023-08-24 | ai-assistant.js |
-
 ## Registering the Plugin
 
 **Note**: Nintex does not recommend using this plugin in production environments as the URL may change or be updated to a newer version. For production use, download the plugin (zip file) and upload the JavaScript files to a web server accessible from the internet. An easy deployment method is to use a GitHub repository and a CDN to serve the file to Nintex Automation Cloud.
@@ -33,7 +27,7 @@ The control allows entering a prompt, which is interpreted by CHAT-GPT. A respon
 
 ## Gallery
 
-!AI Assistant Image 1
-!AI Assistant Image 2
-!AI Assistant Image 3
-!AI Assistant Image 4
+!AI Assistant Image 1(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image004.jpg)
+!AI Assistant Image 2(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image005.jpg)
+!AI Assistant Image 3(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image006.jpg)
+!AI Assistant Image 4(https://ntxtemplatestorage.blob.core.windows.net/assets/Plugins/ai-assistant/thumbnail_image007.jpg)
