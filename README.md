@@ -4,13 +4,13 @@
 
 **Note**: Nintex does not recommend using this plugin in production environments as the URL may change or be updated to a newer version. For production use, download the plugin (zip file) and upload the JavaScript files to a web server accessible from the internet. An easy deployment method is to use a GitHub repository and a CDN to serve the file to Nintex Automation Cloud.
 
-1. **URL to Control .js File**: `[https://cdn.jsdelivr.net/gh/NTX-XT/Plg-AI-Assistant@main/ai-assistant.js](https://cdn.jsdelivr.net/gh/NTX-XT/Plg-AI-Assistant@main/ai-assistant.js)`
+1. **URL to Control .js File**: `(https://cdn.jsdelivr.net/gh/NTX-XT/Plg-AI-Assistant@main/ai-assistant.js)`
 2. **Element Name**: `ai-assistant`
 3. **Description** (optional): AI Assistant
 
 ## About the AI Assistant
 
-The control allows entering a prompt, which is interpreted by CHAT-GPT. A response is then provided. You can specify a System Prompt or Persona to tailor the response and set the context.
+The control allows entering a prompt, which CHAT-GPT interprets. A response is then provided. You can specify a System Prompt or Persona to tailor the response and set the context.
 
 ## Design Time Properties
 
