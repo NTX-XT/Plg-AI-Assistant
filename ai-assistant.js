@@ -62,7 +62,7 @@ export class AIAssistant extends LitElement {
       pluginAuthor: 'Deon Smit',
       fallbackDisableSubmit: false,
       groupName: 'AI',
-      version: '0.1',
+      version: '0.2',
       properties: {
         apiKey: {
           title: 'API Key',
